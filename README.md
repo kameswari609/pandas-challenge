@@ -18,4 +18,4 @@ summary analysis :-
  
  
  
-![fantasy](link-to-image)
+![fantasy](https://github.com/kameswari609/pandas-challenge/blob/master/Fantasy%20(1).png)
